@@ -10,7 +10,7 @@ location: "Brighton, UK"
 
 [Original page is here](https://brightonruby.com/2017/dont-drop-the-bass-xavier-riley/)
 
-<video class="object-contain rounded bg-gray-600 xl:container mx-auto" controls="" autopictureinpicture="">
+<video style="width: 100%" class="object-contain rounded bg-gray-600 xl:container mx-auto" controls="" autopictureinpicture="">
   <source src="//videos.brightonruby.com/videos/2017/xavier-dont-drop-the-bass.mp4" type="video/mp4">
 </video>
 
