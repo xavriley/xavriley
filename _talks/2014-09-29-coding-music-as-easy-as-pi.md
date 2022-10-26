@@ -20,3 +20,4 @@ Full talk and details below:
   * slides: [http://sonic-pi-talk.herokuapp.com/#/](http://sonic-pi-talk.herokuapp.com/#/)
   * date: 29/09/2014
 
+<script src="https://gist.github.com/xavriley/ab0e7ad9b956c18af9f9.js"></script>

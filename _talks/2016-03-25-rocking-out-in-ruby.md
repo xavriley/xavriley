@@ -11,3 +11,7 @@ location: "Bath, UK"
 My keynote presentation at Bath Ruby 2016
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L06FlSoiBi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Code:
+
+<script src="https://gist.github.com/xavriley/84e23e9044b3c1dcc757.js"></script>
