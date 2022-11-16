@@ -16,6 +16,6 @@ location: "Brighton, UK"
 
 Demo of the new (at the time) live looping capability in Sonic Pi.
 
-Code
+Code:
 
 <script src="https://gist.github.com/xavriley/5d3fc4536b0cd290717e2970f84a0907.js"></script>
