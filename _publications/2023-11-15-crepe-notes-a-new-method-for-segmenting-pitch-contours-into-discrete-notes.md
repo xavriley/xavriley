@@ -1,10 +1,10 @@
 ---
 title: "CREPE Notes: A new method for segmenting pitch contours into discrete notes"
 collection: publications
-permalink: /publication/2023-11-15-crepe-notes-a-new-method-for-segmenting-pitch-contours-into-discrete-notes.md
+permalink: /publication/2023-11-15-crepe-notes-a-new-method-for-segmenting-pitch-contours-into-discrete-notes
 excerpt: 'Building on CREPE, a state-of-the-art monophonic pitch tracking solution based on a simple neural network, we propose a simple and effective method for post-processing CREPE's output to achieve monophonic note segmentation.'
 date: 2023-11-15
-venue: 'SMC 2023'
+venue: 'SMC'
 citation: ''
 paperurl: 'https://arxiv.org/pdf/2311.08884'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'

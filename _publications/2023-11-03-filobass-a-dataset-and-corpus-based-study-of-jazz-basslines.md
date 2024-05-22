@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-11-03-filobass-a-dataset-and-corpus-based-study-of-jazz-basslines
 excerpt: 'We present FiloBass: a novel corpus of music scores and annotations which focuses on the important but often overlooked role of the double bass in jazz accompaniment'
 date: 2023-11-03
-venue: 'ISMIR 2023'
+venue: 'ISMIR'
 citation: ''
 paperurl: 'https://arxiv.org/pdf/2311.02023'
 ---
