@@ -1,0 +1,12 @@
+---
+title: "Reconstructing the Charlie Parker Omnibook using an audio-to-score automatic transcription pipeline"
+collection: publications
+permalink: /publication/2024-05-26-reconstructing-the-charlie-parker-omnibook-using-an-audio-to-score-automatic-transcription-pipeline
+excerpt: "We propose a new transcription pipeline to reconstruct the Charlie Parker Omnibook directly from audio, including a source separation model for saxophone, a MIDI transcription model for solo saxophone, and an adaptation of an existing MIDI-to-score method. We also provide an enhanced dataset of Charlie Parker transcriptions as score-audio pairs with accurate MIDI alignments and downbeat annotations."
+date: 2024-05-26
+venue: 'Sound and Music Computing Conference 2024'
+citation: 'Riley, Xavier, and Simon Dixon (2024). &quot;Reconstructing the Charlie Parker Omnibook using an audio-to-score automatic transcription pipeline&quot; <i>Proceedings of the Sound and Music Computing Conference 2024</i>'
+paperurl: 'https://arxiv.org/abs/2405.16687'
+---
+
+The Charlie Parker Omnibook is a cornerstone of jazz music education, described by pianist Ethan Iverson as "the most important jazz education text ever published". In this work we propose a new transcription pipeline and explore the extent to which state of the art music technology is able to reconstruct these scores directly from the audio without human intervention. Our pipeline includes: a newly trained source separation model for saxophone, a new MIDI transcription model for solo saxophone and an adaptation of an existing MIDI-to-score method for monophonic instruments. To assess this pipeline we also provide an enhanced dataset of Charlie Parker transcriptions as score-audio pairs with accurate MIDI alignments and downbeat annotations. This represents a challenging new benchmark for automatic audio-to-score transcription that we hope will advance research into areas beyond transcribing audio-to-MIDI alone. Together, these form another step towards producing scores that musicians can use directly, without the need for onerous corrections or revisions. To facilitate future research, all model checkpoints and data are made available to download along with code for the transcription pipeline. Improvements in our modular pipeline could one day make the automatic transcription of complex jazz solos a routine possibility, thereby enriching the resources available for music education and preservation. 

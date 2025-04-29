@@ -1,0 +1,12 @@
+---
+title: "MIDI-to-Tab: Guitar Tablature Inference via Masked Language Modeling"
+collection: publications
+permalink: /publication/2024-08-09-midi-to-tab-guitar-tablature-inference-via-masked-language-modeling
+excerpt: "We introduce a novel deep learning solution to symbolic guitar tablature estimation using an encoder-decoder Transformer model trained in a masked language modeling paradigm. Our model, pre-trained on DadaGP and fine-tuned on professionally transcribed performances, significantly outperforms competing algorithms in a user study assessing tablature playability."
+date: 2024-08-09
+venue: 'ISMIR'
+citation: 'Edwards, Drew, Xavier Riley, Pedro Sarmento, and Simon Dixon (2024). &quot;MIDI-to-Tab: Guitar Tablature Inference via Masked Language Modeling&quot; <i>Proceedings of the 25th International Society for Music Information Retrieval Conference</i>'
+paperurl: 'https://arxiv.org/abs/2408.05024'
+---
+
+Guitar tablatures enrich the structure of traditional music notation by assigning each note to a string and fret of a guitar in a particular tuning, indicating precisely where to play the note on the instrument. The problem of generating tablature from a symbolic music representation involves inferring this string and fret assignment per note across an entire composition or performance. On the guitar, multiple string-fret assignments are possible for most pitches, which leads to a large combinatorial space that prevents exhaustive search approaches. Most modern methods use constraint-based dynamic programming to minimize some cost function (e.g.\ hand position movement). In this work, we introduce a novel deep learning solution to symbolic guitar tablature estimation. We train an encoder-decoder Transformer model in a masked language modeling paradigm to assign notes to strings. The model is first pre-trained on DadaGP, a dataset of over 25K tablatures, and then fine-tuned on a curated set of professionally transcribed guitar performances. Given the subjective nature of assessing tablature quality, we conduct a user study amongst guitarists, wherein we ask participants to rate the playability of multiple versions of tablature for the same four-bar excerpt. The results indicate our system significantly outperforms competing algorithms. 

@@ -15,7 +15,7 @@ Education
 ======
 * BMus in Music, University of Birmingham, 2007-07
 * M.Sc. in Computer Science (Distributed Systems and Networking), Royal Holloway, 2016-18
-* Ph.D in Artificial Intelligence and Music, Queen Mary University of London, 2024 (expected)
+* Ph.D in Artificial Intelligence and Music, Queen Mary University of London, 2025
 
 Publications
 ======
